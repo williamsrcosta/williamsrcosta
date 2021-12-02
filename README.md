@@ -1,9 +1,7 @@
-### Olá pessoal 👋
-
 ## Olá, me chamo William Sposito, para os amigos WiLL ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando na Empresa Grupo Iv2, com programação em ADVPL (Protheus), cuidado da parte de integrações de sistemas.
+- 🔭 Atualmente estou trabalhando na Empresa Grupo Iv2, com programação em ADVPL (Protheus), cuidando da parte de integrações entre sistemas.
 - 🌱 Atualmente estou aprendendo, HTML, CSS e JavaScript em faculdadeIV2
 - 💬 Pergunte-me sobre, ADVPL(Protheus), Datasul(Progress), Integrações entre sistemas ERP.
 - 📫 Como entrar em contato comigo: email: williamsrcosta@hotmail.com
